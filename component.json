@@ -1,0 +1,14 @@
+{
+  "name": "testling-preprocess-test",
+  "repo": "jb55/testling-preprocess-test",
+  "description": "Test to see when testling picks up scripts after preprocessing",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

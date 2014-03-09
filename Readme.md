@@ -5,6 +5,11 @@
 
   [![browser support](https://ci.testling.com/jb55/testling-preprocess-test.png)](https://ci.testling.com/jb55/testling-preprocess-test)
 
+## Issue
+
+`scripts` field seems to glob before `preprocess` has finished running. This
+forces you to commit the build, which is not ideal in certain situations.
+
 ## License
 
   The MIT License (MIT)
